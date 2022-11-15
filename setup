@@ -1,0 +1,5 @@
+#bin/python
+#codded by Mr Juice
+
+pip install mechanize
+pkg install wget
